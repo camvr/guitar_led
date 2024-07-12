@@ -1,0 +1,4 @@
+[submodule "WLED"]
+	path = WLED
+	url = https://github.com/camvr/WLED
+	branch = guitar-led-controller
